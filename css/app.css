@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(215, 215, 215);
+}
+
+p {
+  color: blueviolet;
+}
+
+.tag {
+  color: rgb(94, 0, 64);
+}
+
+#cast {
+  color: rgb(32, 151, 78);
+  background-color: brown;
+}
+
+input[type="email"] {
+  color: red;
+}
+
+div h3 {
+  color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul li span {
+  background-color: black;
+  color: gold;
+}
