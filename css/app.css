@@ -23,10 +23,14 @@ input[type="email"] {
 
 div h3 {
   color: red;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 ul li span {
   background-color: black;
   color: gold;
+}
+
+h4.score {
+  color: blue;
 }
